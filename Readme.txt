@@ -1,0 +1,1 @@
+Contains solutions to some of the problems from codechef. feel free to use them.
